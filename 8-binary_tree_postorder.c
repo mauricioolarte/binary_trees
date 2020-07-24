@@ -3,7 +3,7 @@
 #include "binary_trees.h"
 
 /**
- *binary_tree_postorder - this function goes thougth a binary tree usingpreorder
+ *binary_tree_postorder - thisfunction goes thougth a binary tree usingpreorder
  *@tree: is the root of tree.
  *@func: is pointer to funtion tha print value.
  */
